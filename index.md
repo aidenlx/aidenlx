@@ -1,6 +1,6 @@
 # ●
 
-I'm Aiden Liu ([@aidenlx](https://github.com/aidenlx)), a full-stack developer specializing in tools for knowledge management and academic workflows. 
+I'm Aiden Liu ([@aidenlx](https://github.com/aidenlx)), a full-stack developer specializing in tools for knowledge management and academic workflows.
 
 ## Projects
 
@@ -14,6 +14,10 @@ I'm Aiden Liu ([@aidenlx](https://github.com/aidenlx)), a full-stack developer s
   - [alx-folder-note](https://github.com/aidenlx/alx-folder-note) - A folder note plugin for Obsidian.
   - [obsidian-icon-shortcode](https://github.com/aidenlx/obsidian-icon-shortcode) - Renders emoji and custom icon shortcodes within the editor.
   - [mn-addon-api](https://github.com/aidenlx/mn-addon-api) - TypeScript development environment for MarginNote 3 plugins.
+
+## Blogs
+
+- [[reconnecting-dots|Reconnecting the Dots: A Journey from Medicine to Open Source]]
 
 ## Tech Stack
 
