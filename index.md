@@ -1,21 +1,19 @@
-# Hi there 👋
+# ●
 
-I'm Aiden Liu ([@aidenlx](https://github.com/aidenlx)), a full-stack developer specializing in tools for knowledge management and academic workflows.
-
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=aidenlx&show_icons=true&theme=tokyonight)
+I'm Aiden Liu ([@aidenlx](https://github.com/aidenlx)), a full-stack developer specializing in tools for knowledge management and academic workflows. 
 
 ## Projects
 
 - [ZotLit](https://github.com/PKM-er/obsidian-zotlit) - A third-party project that aims to facilitate the integration between Obsidian.md and Zotero.
 - [Media Extended](https://github.com/aidenlx/media-extended) - Plugin to integrate, manage, and play media files directly in Obsidian. 🖇️🗂️⏯️
-- Others (Maintenance/Archived):
+- Contributions to [onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Refactored for Next.js App Router.
+- Other Plugins (Maintenance/Archived):
   - [cm-chs-patch](https://github.com/aidenlx/cm-chs-patch) - Chinese word segmentation support for Obsidian.
   - [table-extended](https://github.com/aidenlx/table-extended) - Advanced Markdown table rendering for Obsidian.
   - [better-fn](https://github.com/aidenlx/better-fn) - Floating Markdown footnote previews for Obsidian.
   - [alx-folder-note](https://github.com/aidenlx/alx-folder-note) - A folder note plugin for Obsidian.
   - [obsidian-icon-shortcode](https://github.com/aidenlx/obsidian-icon-shortcode) - Renders emoji and custom icon shortcodes within the editor.
   - [mn-addon-api](https://github.com/aidenlx/mn-addon-api) - TypeScript development environment for MarginNote 3 plugins.
-  - Contributions to [onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Refactored for Next.js App Router.
 
 ## Tech Stack
 
@@ -26,6 +24,6 @@ I'm Aiden Liu ([@aidenlx](https://github.com/aidenlx)), a full-stack developer s
 
 ## Find me on the net
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aidenlx)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aiden_lx)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aiden.lx@outlook.com)
+- [GitHub](https://github.com/aidenlx)
+- [X (Twitter)](https://x.com/aiden_lx)
+- [Email](mailto:aiden.lx@outlook.com)
