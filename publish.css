@@ -1,3 +1,10 @@
+/* link that use badge from img.shields.io */
+a:has(img[src^="https://img.shields.io/"]) {
+	padding-inline-end: 0;
+	background-image: none;
+}
+
+
 /*
 
 Minimal Publish / MIT License
