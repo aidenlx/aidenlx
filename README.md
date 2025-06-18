@@ -2,6 +2,11 @@
 
 I'm Aiden Liu ([@aidenlx](https://github.com/aidenlx)), a full-stack developer specializing in tools for knowledge management and academic workflows.
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aidenlx)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aiden_lx)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aiden.lx@outlook.com)
+
+
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=aidenlx&show_icons=true&theme=tokyonight)
 
 ## Projects
@@ -23,9 +28,3 @@ I'm Aiden Liu ([@aidenlx](https://github.com/aidenlx)), a full-stack developer s
 - **Frontend**: React, Next.js, Remix, Tailwind CSS, WebAssembly (WASM)
 - **Backend**: Node.js, Deno, Serverless, PostgreSQL, SQLite
 - **Tools**: Git, Docker, Turborepo, pnpm
-
-## Find me on the net
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aidenlx)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aiden_lx)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aiden.lx@outlook.com)

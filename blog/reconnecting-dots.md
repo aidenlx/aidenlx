@@ -1,6 +1,7 @@
 ---
 date: 2025-06-18
-description: "After transitioning from medicine to tech, I'm resuming active development on Media Extended and ZotLit with major updates and sustainable development approaches."
+description: After transitioning from medicine to tech, I'm resuming active development on Media Extended and ZotLit with major updates and sustainable development approaches.
+title: "Reconnecting the Dots: A Journey from Medicine to Open Source"
 ---
 # Reconnecting the Dots: A Journey from Medicine to Open Source
 
