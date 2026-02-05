@@ -5,6 +5,4 @@
 - 🌐 Personal website: [aidenlx.site](https://aidenlx.site)
 - 📫 Find me on: [X (Twitter)](https://x.com/aiden_lx), [aiden.lx#outlook.com](mailto:aiden.lx@outlook.com).
 
-<p align="center">
-  <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=aidenlx&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
-</p>
+[![GitHub State](https://git-stats.cosine.ren/api?username=aidenlx&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
